@@ -15,6 +15,8 @@ def describe():
             
             The player who sequence their symbol first, is the winner of the game!
             
+            symbols - x and o (letter)
+            
             Give two inputs seperated by space eg: 'a1 x'
             
             Type 'stop' to end the GAME.\n""")
